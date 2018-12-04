@@ -1,2 +1,2 @@
-# cs-marketing-full
-Using h2o machine learning platform with R to segment and target users for marketing campaigns.
+# experis_demo
+A business demonstration of training, scoring, and reporting in an analysis workflow
